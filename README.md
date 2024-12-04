@@ -15,7 +15,7 @@ Maanav Thalapilly - AM.EN.U4CSE21134
 ## Option page for adding Expense or Income 
 ![image](https://github.com/user-attachments/assets/0823cb35-664d-4a53-b12a-34c5acbb1945)
 
-##Main Pages View
+## Main Pages View
 ![image](https://github.com/user-attachments/assets/40aefec6-63a3-407d-8692-4856951349fb)
 
 ## Income Adding Page
